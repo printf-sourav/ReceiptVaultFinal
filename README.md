@@ -62,8 +62,10 @@ The backend is fully autonomous. Every morning at **8:00–8:25 AM IST**, six cr
 ## Demo Video
 
 > 🎥 **Watch the ReceiptVault Demo**
-> 
-> *(Drag and drop your project demo `.mp4` file here when editing on GitHub)*
+
+<video src="./demo.mp4" controls="controls" width="100%">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
