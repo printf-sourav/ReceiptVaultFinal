@@ -24,6 +24,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Demo Video](#demo-video)
 - [System Architecture](#system-architecture)
 - [Tech Stack](#tech-stack)
 - [Daily Heartbeat — Autonomous Skills](#daily-heartbeat--autonomous-skills)
@@ -55,6 +56,14 @@ A user photographs a receipt, sends it to the bot, and the system automatically:
 A companion **React Native (Expo)** mobile app provides a premium visual dashboard — spending analytics, receipt history, deadline tracking — over the same REST API.
 
 The backend is fully autonomous. Every morning at **8:00–8:25 AM IST**, six cron jobs run sequentially to keep users informed without any manual input.
+
+---
+
+## Demo Video
+
+> 🎥 **Watch the ReceiptVault Demo**
+> 
+> *(Drag and drop your project demo `.mp4` file here when editing on GitHub)*
 
 ---
 
