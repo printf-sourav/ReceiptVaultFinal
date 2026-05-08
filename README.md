@@ -32,8 +32,9 @@ https://github.com/user-attachments/assets/0a01b580-f9f4-429c-9506-ee3f48aa8890
 
 ## Table of Contents
 
+- 📄 **[ReceiptVault Project Presentation](./The%20Defective%20pieces%20Receipt%20Vault%20(2).pdf)**
+- 📝 **[ReceiptVault AI Disclosure Form](./ReceiptVault_AI_Disclosure_Filled_signed.pdf)**
 - [Overview](#overview)
-- [Project Documents](#project-documents)
 - [System Architecture](#system-architecture)
 - [Tech Stack](#tech-stack)
 - [Daily Heartbeat — Autonomous Skills](#daily-heartbeat--autonomous-skills)
@@ -65,13 +66,6 @@ A user photographs a receipt, sends it to the bot, and the system automatically:
 A companion **React Native (Expo)** mobile app provides a premium visual dashboard — spending analytics, receipt history, deadline tracking — over the same REST API.
 
 The backend is fully autonomous. Every morning at **8:00–8:25 AM IST**, six cron jobs run sequentially to keep users informed without any manual input.
-
----
-
-## Project Documents
-
-- 📄 **[ReceiptVault Project Presentation](./The%20Defective%20pieces%20Receipt%20Vault%20(2).pdf)**
-- 📝 **[ReceiptVault AI Disclosure Form](./ReceiptVault_AI_Disclosure_Filled_signed.pdf)**
 
 ---
 
