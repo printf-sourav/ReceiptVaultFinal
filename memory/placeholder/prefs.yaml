@@ -1,0 +1,6 @@
+# User preferences for ReceiptVault alerts
+quiet_hours_start: "22:00"
+quiet_hours_end: "08:00"
+preferred_platform: "whatsapp"
+max_alerts_per_hour: 3
+auto_actions_approved: []

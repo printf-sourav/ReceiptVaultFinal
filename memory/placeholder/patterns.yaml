@@ -1,0 +1,5 @@
+# Purchase patterns used for reorder predictions
+reorder_intervals: []
+preferred_stores:
+  groceries: ""
+  electronics: ""

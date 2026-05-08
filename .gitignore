@@ -1,0 +1,7 @@
+.env
+node_modules/
+dist/
+credentials.json
+token.json
+oauth-test-token.json
+.gmail-processed.json
