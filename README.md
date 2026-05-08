@@ -20,11 +20,19 @@
 </p>
 
 ---
+> 🎥 **Watch the ReceiptVault Demo**
+
+
+
+https://github.com/user-attachments/assets/0a01b580-f9f4-429c-9506-ee3f48aa8890
+
+
+
+---
 
 ## Table of Contents
 
 - [Overview](#overview)
-- [Demo Video](#demo-video)
 - [System Architecture](#system-architecture)
 - [Tech Stack](#tech-stack)
 - [Daily Heartbeat — Autonomous Skills](#daily-heartbeat--autonomous-skills)
@@ -61,15 +69,7 @@ The backend is fully autonomous. Every morning at **8:00–8:25 AM IST**, six cr
 
 ## Demo Video
 
-> 🎥 **Watch the ReceiptVault Demo**
 
-
-
-https://github.com/user-attachments/assets/0a01b580-f9f4-429c-9506-ee3f48aa8890
-
-
-
----
 
 ## System Architecture
 
