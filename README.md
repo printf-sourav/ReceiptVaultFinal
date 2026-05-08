@@ -63,9 +63,11 @@ The backend is fully autonomous. Every morning at **8:00–8:25 AM IST**, six cr
 
 > 🎥 **Watch the ReceiptVault Demo**
 
-<video src="./demo.mp4" controls="controls" width="100%">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/0a01b580-f9f4-429c-9506-ee3f48aa8890
+
+
 
 ---
 
